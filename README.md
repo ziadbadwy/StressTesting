@@ -1,0 +1,2 @@
+# StressTesting
+Data structure and algorithms assignments can be a challenging and time-consuming task, especially when it comes to testing our solutions. It's not uncommon to spend hours or even days coding and debugging, only to find out that our solutions fail on a specific test case. And to make matters worse, these test cases are often hidden from us, leaving us disappointed and unsure where the problem lies. As problem solvers, we've all experienced this struggle, but what can we do to overcome it.
